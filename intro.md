@@ -31,6 +31,8 @@ The concept of [tidy data](https://vita.had.co.nz/papers/tidy-data.pdf) was deve
 
 ### 3. [ITS_LIVE](tidy_itslive.ipynb)
 
+### 4. [ASE Ice Velocity](https://tutorial.xarray.dev/data_cleaning/ice_velocity.html)
+
 ## Common 'tidying' steps for geospatial raster data
 
 1. data is normally stored such that individual observations or time-steps are organized as individual files. To construct a usable 'data cube' one will need to read and organize many files
